@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0a171c12-ba03-4cdb-aeeb-fc0f57f532a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/images/77255838_2579461402089791_8518199846358745088_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/anh8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="21AtaBcp1AIrkHSR1loGdLTZa9G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CodeGym\upload\upload\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a171c12-ba03-4cdb-aeeb-fc0f57f532a3" name="Default Changelist" comment="" />
+      <created>1637395780898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637395780898</updated>
+      <workItem from="1637395783482" duration="35000" />
+      <workItem from="1640325782696" duration="938000" />
+      <workItem from="1640331331443" duration="146000" />
+      <workItem from="1640418915757" duration="8012000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
